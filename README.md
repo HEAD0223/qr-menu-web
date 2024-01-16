@@ -52,7 +52,7 @@ yarn start
 
 ## Media
 
-### Multi Languages and Login
+### Multi-Language Support and Login
 
 ![QR-Menu Language and Login](./public/preview/QR-Menu_lng-login.gif)
 ![QR-Menu Web 1](./public/preview/qr-menu-web_1.png)
@@ -62,9 +62,9 @@ yarn start
 ![QR-Menu Store Creation and Draggable Stores](./public/preview/QR-Menu_store-draggable.gif)
 ![QR-Menu Web 2](./public/preview/qr-menu-web_2.png)
 
-### Tables Creation and Rename
+### Tables Creation and Renaming
 
-![QR-Menu Tables Creation and Rename](./public/preview/QR-Menu_tables-create.gif)
+![QR-Menu Tables Creation and Renaming](./public/preview/QR-Menu_tables-create.gif)
 ![QR-Menu Web 3](./public/preview/qr-menu-web_3.png)
 
 ### QR Code Customization
@@ -72,25 +72,25 @@ yarn start
 ![QR-Menu QR Code Customization](./public/preview/QR-Menu_qr-custom.gif)
 ![QR-Menu Web 4](./public/preview/qr-menu-web_4.png)
 
-### User Creation and Changing User Privileges
+### User Creation and Privilege Management
 
-![QR-Menu User Creation and Changing User Privileges](./public/preview/QR-Menu_users.gif)
+![QR-Menu User Creation and Privilege Management](./public/preview/QR-Menu_users.gif)
 ![QR-Menu Web 5](./public/preview/qr-menu-web_5.png)
 
-### Store Schedule and Editing Time
+### Store Schedule and Time Editing
 
-![QR-Menu Store Schedule and Editing Time](./public/preview/QR-Menu_schedule.gif)
+![QR-Menu Store Schedule and Time Editing](./public/preview/QR-Menu_schedule.gif)
 ![QR-Menu Web 6](./public/preview/qr-menu-web_6.png)
 
-### Creating Socials and Creating WiFi QR Code
+### Creating Socials and Generating WiFi QR Code
 
-![QR-Menu Creating Socials and Creating WiFi QR Code](./public/preview/QR-Menu_socials-wifi.gif)
+![QR-Menu Creating Socials and Generating WiFi QR Code](./public/preview/QR-Menu_socials-wifi.gif)
 ![QR-Menu Web 7](./public/preview/qr-menu-web_7.png)
 ![QR-Menu Web 8](./public/preview/qr-menu-web_8.png)
 
-### Changing Store Parameters and Showing Information of All Created Stores
+### Changing Store Parameters and Overview of All Created Stores
 
-![QR-Menu Changing Store Parameters and Showing Information](./public/preview/QR-Menu_param-info.gif)
+![QR-Menu Changing Store Parameters and Overview](./public/preview/QR-Menu_param-info.gif)
 ![QR-Menu Web 9](./public/preview/qr-menu-web_9.png)
 ![QR-Menu Web 10](./public/preview/qr-menu-web_10.png)
 
