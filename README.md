@@ -53,26 +53,23 @@ yarn start
 ## Screenshots
 
 ![QR-Menu_lng-login](./public/preview/QR-Menu_lng-login.gif)
-![QR-Menu_store-draggable](./public/preview/QR-Menu_store-draggable.gif)
-![QR-Menu_tables-create](./public/preview/QR-Menu_tables-create.gif)
-![QR-Menu_qr-custom](./public/preview/QR-Menu_qr-custom.gif)
-![QR-Menu_users](./public/preview/QR-Menu_users.gif)
-![QR-Menu_schedule](./public/preview/QR-Menu_schedule.gif)
-![QR-Menu_socials-wifi](./public/preview/QR-Menu_socials-wifi.gif)
-![QR-Menu_param-info](./public/preview/QR-Menu_param-info.gif)
-
 ![qr-menu-web_1](./public/preview/qr-menu-web_1.png)
+![QR-Menu_store-draggable](./public/preview/QR-Menu_store-draggable.gif)
 ![qr-menu-web_2](./public/preview/qr-menu-web_2.png)
+![QR-Menu_tables-create](./public/preview/QR-Menu_tables-create.gif)
 ![qr-menu-web_3](./public/preview/qr-menu-web_3.png)
+![QR-Menu_qr-custom](./public/preview/QR-Menu_qr-custom.gif)
 ![qr-menu-web_4](./public/preview/qr-menu-web_4.png)
+![QR-Menu_users](./public/preview/QR-Menu_users.gif)
 ![qr-menu-web_5](./public/preview/qr-menu-web_5.png)
+![QR-Menu_schedule](./public/preview/QR-Menu_schedule.gif)
 ![qr-menu-web_6](./public/preview/qr-menu-web_6.png)
+![QR-Menu_socials-wifi](./public/preview/QR-Menu_socials-wifi.gif)
 ![qr-menu-web_7](./public/preview/qr-menu-web_7.png)
 ![qr-menu-web_8](./public/preview/qr-menu-web_8.png)
+![QR-Menu_param-info](./public/preview/QR-Menu_param-info.gif)
 ![qr-menu-web_9](./public/preview/qr-menu-web_9.png)
 ![qr-menu-web_10](./public/preview/qr-menu-web_10.png)
-![qr-menu-web_11](./public/preview/qr-menu-web_11.png)
-![qr-menu-web_12](./public/preview/qr-menu-web_12.png)
 
 ## Localization
 
