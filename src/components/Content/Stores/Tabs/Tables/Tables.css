@@ -1,0 +1,186 @@
+.tablesTab-count {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+}
+.tablesTab-checkbox {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.customize-modal-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px;
+	background-color: #ffffff;
+	border-radius: 8px;
+	box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+	min-width: 600px;
+	height: auto;
+	margin: 0 auto;
+	position: fixed;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.customize-modal-left {
+	display: flex;
+	flex-direction: column;
+	gap: 6px;
+	flex: 1;
+	padding-right: 20px;
+}
+.customize-modal-right {
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	background-color: #f5f5f5;
+	padding: 20px;
+	border-radius: 8px;
+}
+.customize-modal-left .MuiAccordionSummary-content {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.customize-title {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 10px;
+}
+.customize-upload {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	margin-bottom: 10px;
+	gap: 5px;
+}
+.uploaded-image img {
+	max-width: 100%;
+	max-height: 150px;
+}
+.uploaded-buttons {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.uploaded-padding {
+	width: 65%;
+}
+.customize-edit-buttons {
+	display: flex;
+	gap: 10px;
+	margin-top: 20px;
+}
+.pattern-options {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.pattern-button {
+	display: flex !important;
+	align-items: center !important;
+	justify-content: center !important;
+	border: 1px solid #ccc !important;
+	border-radius: 50% !important;
+	width: 40px;
+	height: 40px;
+	cursor: pointer !important;
+	transition: background-color 0.3s, color 0.3s !important;
+	color: rgba(0, 0, 0, 0.7) !important;
+}
+.pattern-button:hover {
+	background-color: #f0f0f0;
+}
+.pattern-button.selected {
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+}
+.color-pattern-tabs {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.color-pattern-tabs .MuiTabs-root {
+	width: 100%;
+}
+.color-pattern-content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 10px;
+	gap: 5px;
+}
+.color-pattern-button {
+	margin: 5px !important;
+	padding: 10px !important;
+	background-color: transparent !important;
+	border: 2px solid #ccc !important;
+	border-radius: 50% !important;
+	cursor: pointer !important;
+}
+.color-pattern-button.selected {
+	background-color: rgba(0, 0, 0, 0.6) !important;
+	box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.4);
+}
+.color-pattern-content .sketch-picker {
+	margin-top: 10px;
+}
+
+.color-pattern-checkbox {
+	display: flex;
+	align-items: center;
+	margin-top: 10px;
+}
+.color-box {
+	width: 30px;
+	height: 30px;
+	margin-right: 10px;
+	border: 1px solid #ccc;
+}
+.color-picker-button {
+	margin-left: 10px;
+}
+.color-pattern-color {
+	width: 100%;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.color-pattern-radio {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.font-pattern-content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 20px;
+	width: 100%;
+}
+.font-pattern-form {
+	width: 100%;
+}
+.frame-buttons {
+	display: flex;
+	gap: 10px;
+	flex-wrap: wrap;
+	justify-content: center;
+	width: 100%;
+}
+.eye-sliders {
+	display: flex;
+	gap: 15px;
+	margin-top: 10px;
+	height: 250px;
+	overflow-y: scroll;
+	padding: 10px;
+}
+.slider-container {
+	text-align: center;
+}

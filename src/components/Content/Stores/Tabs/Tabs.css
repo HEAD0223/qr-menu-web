@@ -1,0 +1,9 @@
+.empty-list {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+.edit-buttons {
+	display: flex;
+	gap: 10px;
+}

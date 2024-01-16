@@ -1,0 +1,10 @@
+.options-container {
+	margin-top: 50px;
+	padding: 0 50px;
+}
+.options-grid {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 25px;
+}

@@ -1,0 +1,15 @@
+.wifi-container {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	gap: 20px;
+}
+.wifi-data {
+	display: flex;
+	flex-direction: column;
+	gap: 15px;
+	width: 100%;
+}
+.wifi-qrcode {
+	display: flex;
+}

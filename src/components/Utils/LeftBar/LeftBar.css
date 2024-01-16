@@ -1,0 +1,24 @@
+.section-list {
+	display: flex;
+	flex-direction: column;
+	margin: auto !important;
+}
+
+.section-list .MuiListItemButton-root {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	padding: 25px 10px;
+}
+
+.section-list .MuiListItemIcon-root {
+	justify-content: center;
+}
+
+.avatar {
+	width: 80px !important;
+	height: 80px !important;
+	margin: 25px auto;
+	border-radius: 8px !important;
+	box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.3);
+}
