@@ -5,7 +5,7 @@
 ![Self Development](https://img.shields.io/badge/Project-Self_Development-red)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
-This web application is designed for managing QR code menus for restaurants. It includes features such as user authentication, dashboard, store management, and menu creation.
+This web application, built with React, a JavaScript library for building user interfaces, and Material-UI, a React UI framework for creating responsive and accessible web applications, is designed to efficiently manage QR code menus for restaurants. The application encompasses essential features, including user authentication, a dashboard, store management, and seamless menu creation.
 
 ## Table of Contents
 
