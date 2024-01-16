@@ -11,7 +11,7 @@ This web application is designed for managing QR code menus for restaurants. It 
 
 -  [Folder Structure](#folder-structure)
 -  [Usage](#usage)
--  [Screenshots](#screenshots)
+-  [Media](#media)
 -  [Localization](#localization)
 -  [Contributing](#contributing)
 -  [Dependencies](#dependencies)
@@ -50,26 +50,49 @@ yarn start
 
 4. Visit `http://localhost:3000` in your browser to see the application.
 
-## Screenshots
+## Media
 
-![QR-Menu_lng-login](./public/preview/QR-Menu_lng-login.gif)
-![qr-menu-web_1](./public/preview/qr-menu-web_1.png)
-![QR-Menu_store-draggable](./public/preview/QR-Menu_store-draggable.gif)
-![qr-menu-web_2](./public/preview/qr-menu-web_2.png)
-![QR-Menu_tables-create](./public/preview/QR-Menu_tables-create.gif)
-![qr-menu-web_3](./public/preview/qr-menu-web_3.png)
-![QR-Menu_qr-custom](./public/preview/QR-Menu_qr-custom.gif)
-![qr-menu-web_4](./public/preview/qr-menu-web_4.png)
-![QR-Menu_users](./public/preview/QR-Menu_users.gif)
-![qr-menu-web_5](./public/preview/qr-menu-web_5.png)
-![QR-Menu_schedule](./public/preview/QR-Menu_schedule.gif)
-![qr-menu-web_6](./public/preview/qr-menu-web_6.png)
-![QR-Menu_socials-wifi](./public/preview/QR-Menu_socials-wifi.gif)
-![qr-menu-web_7](./public/preview/qr-menu-web_7.png)
-![qr-menu-web_8](./public/preview/qr-menu-web_8.png)
-![QR-Menu_param-info](./public/preview/QR-Menu_param-info.gif)
-![qr-menu-web_9](./public/preview/qr-menu-web_9.png)
-![qr-menu-web_10](./public/preview/qr-menu-web_10.png)
+### Multi Languages and Login
+
+![QR-Menu Language and Login](./public/preview/QR-Menu_lng-login.gif)
+![QR-Menu Web 1](./public/preview/qr-menu-web_1.png)
+
+### Store Creation and Draggable Stores
+
+![QR-Menu Store Creation and Draggable Stores](./public/preview/QR-Menu_store-draggable.gif)
+![QR-Menu Web 2](./public/preview/qr-menu-web_2.png)
+
+### Tables Creation and Rename
+
+![QR-Menu Tables Creation and Rename](./public/preview/QR-Menu_tables-create.gif)
+![QR-Menu Web 3](./public/preview/qr-menu-web_3.png)
+
+### QR Code Customization
+
+![QR-Menu QR Code Customization](./public/preview/QR-Menu_qr-custom.gif)
+![QR-Menu Web 4](./public/preview/qr-menu-web_4.png)
+
+### User Creation and Changing User Privileges
+
+![QR-Menu User Creation and Changing User Privileges](./public/preview/QR-Menu_users.gif)
+![QR-Menu Web 5](./public/preview/qr-menu-web_5.png)
+
+### Store Schedule and Editing Time
+
+![QR-Menu Store Schedule and Editing Time](./public/preview/QR-Menu_schedule.gif)
+![QR-Menu Web 6](./public/preview/qr-menu-web_6.png)
+
+### Creating Socials and Creating WiFi QR Code
+
+![QR-Menu Creating Socials and Creating WiFi QR Code](./public/preview/QR-Menu_socials-wifi.gif)
+![QR-Menu Web 7](./public/preview/qr-menu-web_7.png)
+![QR-Menu Web 8](./public/preview/qr-menu-web_8.png)
+
+### Changing Store Parameters and Showing Information of All Created Stores
+
+![QR-Menu Changing Store Parameters and Showing Information](./public/preview/QR-Menu_param-info.gif)
+![QR-Menu Web 9](./public/preview/qr-menu-web_9.png)
+![QR-Menu Web 10](./public/preview/qr-menu-web_10.png)
 
 ## Localization
 
