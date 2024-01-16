@@ -52,18 +52,27 @@ yarn start
 
 ## Screenshots
 
-![photo_1](https://github.com/HEAD0223/qr-menu-web/assets/43917535/29c04070-c436-43d4-b099-3ae022349c44)
-![photo_2](https://github.com/HEAD0223/qr-menu-web/assets/43917535/af4ab33e-9042-4b37-b890-d5dbf7fee25f)
-![photo_3](https://github.com/HEAD0223/qr-menu-web/assets/43917535/7404f576-14ac-4ad9-9013-984a9e5353ba)
-![photo_4](https://github.com/HEAD0223/qr-menu-web/assets/43917535/4c42ef15-8770-436f-8dc4-3871cf04f308)
-![photo_5](https://github.com/HEAD0223/qr-menu-web/assets/43917535/0102a496-d802-4887-9042-3d8a2f3fc853)
-![photo_6](https://github.com/HEAD0223/qr-menu-web/assets/43917535/1f108cd9-301e-4bb7-b34e-30735f04415e)
-![photo_7](https://github.com/HEAD0223/qr-menu-web/assets/43917535/ab6f8f33-0071-4925-aee3-eb1dbc39db39)
-![photo_8](https://github.com/HEAD0223/qr-menu-web/assets/43917535/81739061-d25f-49dd-9872-0390721620f2)
-![photo_9](https://github.com/HEAD0223/qr-menu-web/assets/43917535/e9166805-51ff-48c7-8dfa-3a48cfd3a590)
-![photo_10](https://github.com/HEAD0223/qr-menu-web/assets/43917535/03c45e9e-76f2-42b7-a0dd-4e9988635a17)
-![photo_11](https://github.com/HEAD0223/qr-menu-web/assets/43917535/710885a4-13c2-4080-a618-b69d5ce10f21)
-![photo_12](https://github.com/HEAD0223/qr-menu-web/assets/43917535/05ba5560-32bd-4a9a-8c54-309d43d20da6)
+![QR-Menu_lng-login](./public/preview/QR-Menu_lng-login.gif)
+![QR-Menu_store-draggable](./public/preview/QR-Menu_store-draggable.gif)
+![QR-Menu_tables-create](./public/preview/QR-Menu_tables-create.gif)
+![QR-Menu_qr-custom](./public/preview/QR-Menu_qr-custom.gif)
+![QR-Menu_users](./public/preview/QR-Menu_users.gif)
+![QR-Menu_schedule](./public/preview/QR-Menu_schedule.gif)
+![QR-Menu_socials-wifi](./public/preview/QR-Menu_socials-wifi.gif)
+![QR-Menu_param-info](./public/preview/QR-Menu_param-info.gif)
+
+![qr-menu-web_1](./public/preview/qr-menu-web_1.png)
+![qr-menu-web_2](./public/preview/qr-menu-web_2.png)
+![qr-menu-web_3](./public/preview/qr-menu-web_3.png)
+![qr-menu-web_4](./public/preview/qr-menu-web_4.png)
+![qr-menu-web_5](./public/preview/qr-menu-web_5.png)
+![qr-menu-web_6](./public/preview/qr-menu-web_6.png)
+![qr-menu-web_7](./public/preview/qr-menu-web_7.png)
+![qr-menu-web_8](./public/preview/qr-menu-web_8.png)
+![qr-menu-web_9](./public/preview/qr-menu-web_9.png)
+![qr-menu-web_10](./public/preview/qr-menu-web_10.png)
+![qr-menu-web_11](./public/preview/qr-menu-web_11.png)
+![qr-menu-web_12](./public/preview/qr-menu-web_12.png)
 
 ## Localization
 
